@@ -1,2 +1,14 @@
-# week10_2
-제 아이디는 admauve 입니다.
+# 7, 8조
+
+## 정보
+
+제 Github 아이디는
+
+- leedosin
+- admauve
+-
+-
+-
+
+입니다!
+
