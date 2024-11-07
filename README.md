@@ -1,4 +1,3 @@
-# week10_2
 
 # 7, 8조
 
@@ -6,6 +5,7 @@
 
 제 Github 아이디는
 
+- chanyoung1256
 - leedosin
 - eusnoo213
 -
@@ -13,3 +13,4 @@
 -
 
 입니다!
+
